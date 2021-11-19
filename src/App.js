@@ -1,8 +1,8 @@
 import "./App.css";
-import Products from "./components/Products";
+import Garage from "./src/components/Garage";
 const App = () => {
   return (
-  <Products />
+  <Garage />
   )
 };
 
